@@ -1,0 +1,22 @@
+body{
+	background-color: salmon;
+}
+
+h1{
+
+	font-size: 40;
+	color: skyblue;
+}
+
+h2{
+	color: gray;
+	font-size: 30;
+}
+
+.color{
+	color: navy;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
