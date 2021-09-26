@@ -1,0 +1,18 @@
+body{
+	background-color: #28282B;
+}
+
+h1{
+	color: darkred;
+	font-size: 25px;
+}
+
+p{
+	color: white;
+	font-size: 12px;
+}
+
+a{
+	color: skyblue;
+	font-size: 10px;
+}
