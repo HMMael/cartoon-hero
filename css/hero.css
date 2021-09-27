@@ -1,0 +1,49 @@
+body{
+	margin: o;
+	font-family: 'Birthstone', cursive;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+header{
+	background-color: black;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	padding-top: 30px;
+}
+
+header h1{
+	color: floralwhite;
+	font-size: 25px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid yellow;
+}
+
+h2, h1{
+	font-family: 'Fira Sans', sans-serif;
+}
+
+a:hover{
+	color: white;
+	background-color: skyblue;
+}
+
+main{
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+footer{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	padding-top: 30px;
+}
+footer p{
+	color: white;
+	background-color: black;
+}
+}
